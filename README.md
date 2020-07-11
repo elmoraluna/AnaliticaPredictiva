@@ -41,7 +41,7 @@ Y para ver cual es el mejor modelo realizamos un **cross validation** de todos l
 Y para una mejor visualizacion comparamos los metodos con un **box-plot**:
 ![Box-plot](./img/13.png)
 
-Debido a que el mejor modelo resultante es **Random Forest** creamos el Random Forest Classifier. Creamos la matriz de confusion y objenemos el puntaje de precision:
+Debido a que el mejor modelo resultante es **Random Forest** creamos el Random Forest Classifier. Creamos la matriz de confusion y objenemos el puntaje de precision:\
 ![RFClassifier](./img/14.png)
 
 Finalmente, realizamos un ebnchmark entre la curva **ROC** y **AUC**:
